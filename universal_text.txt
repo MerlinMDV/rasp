@@ -1,0 +1,4 @@
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIGKLMNOPQRSTUVWXYZ
+123456789.
+!@#$%^&*()<>?
